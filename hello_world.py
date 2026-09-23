@@ -1,4 +1,4 @@
 import numpy as np
 
-print(np.sqrt(16))
+print(np.power(16,2))
 print("merci Owen")
